@@ -1,5 +1,6 @@
 # com-chilipeppr-workspace-sample
-A ChiliPeppr Workspace sample.
+A ChiliPeppr VP Workspace sample.
+Edited by Vincent
 
 ![alt text](screenshot.png "Screenshot")
 
